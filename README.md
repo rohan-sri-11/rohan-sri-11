@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rohan Srivastava
 
-- 🧠 About Me
+### 🧠 About Me
 - 🛠️ Top skills: Python, AI
 - 🌱 Passionate about building accessible, impactful technology and accelerating learning for all people
 - 🤝 Always open to collaboration and new ideas!
