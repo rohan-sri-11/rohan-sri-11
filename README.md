@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rohan Srivastava
+# 👋 Hi, I’m Rohan Srivastava
 
 - 🧠 About Me
 - 🛠️ Top skills: Python, AI
