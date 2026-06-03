@@ -1,9 +1,9 @@
-👋 Hi, I’m Rohan Srivastava
+- 👋 Hi, I’m Rohan Srivastava
 
-##🧠 About Me
-##🛠️ Top skills: Python, AI
-##🌱 Passionate about building accessible, impactful technology and accelerating learning for all people
-##🤝 Always open to collaboration and new ideas!
+- 🧠 About Me
+- 🛠️ Top skills: Python, AI
+- 🌱 Passionate about building accessible, impactful technology and accelerating learning for all people
+- 🤝 Always open to collaboration and new ideas!
 <!--
 **rohan-sri-11/rohan-sri-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
